@@ -3,10 +3,11 @@ Learning Goals
 This simple homework will teach you the basics of web development, you'll learn about how to send HTTP requests to your program and how to respond to them in various settings.
 After completing this assignment, you will know how to:
 
-* Send HTTP requests
-* Respond to HTTP requests
-* Create and interact with forms
-* Write Embedded Ruby code in an HTML page
+* Send HTTP requests.
+* Respond to HTTP requests.
+* Create and interact with forms.
+* Write Embedded Ruby code in an HTML page.
+* Write in-line styling.
 
 Instructions
 -------------
