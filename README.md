@@ -19,6 +19,11 @@ Create a page that displays "Hello $USER" where $USER is the name provided by th
 4. Embed a Ruby for loop to repeat the message 5 times.
 5. Modify the style of the message, with in-line styling, to change the color of the text to blue.
 
+Testing the program
+-------------
+Every time you start a new Ruby program make sure to run ```bundle install``` it will download all dependencies necessary for the program.
+Run your app by executing the following command ```bundle exec rackup --host  0.0.0.0```
+Once the app is running, open the app using the Codio "Box URL" button, a new tab should open with a URL like this ```https://floodrose-energycantina-3000.codio.io/``` change the 3000 for 9292 in the URL and press enter, you should get a new page with an error. That is because the program is only listening to the routes we specified in app.rb, add ```/hello``` at the end of the URL and it should take you to the hello_form.erb file.
 
 Submission
 ------------
