@@ -19,7 +19,7 @@ Create a page that displays "Hello $USER" where $USER is the name provided by th
 4. Embed a Ruby for loop to repeat the message 5 times.
 5. Modify the style of the message, with in-line styling, to change the color of the text to blue.
 
-Example Solution 
+Example Solution <br/>
 ![image](https://user-images.githubusercontent.com/7307397/190445805-35795fe9-3ac1-45df-b45a-9a9295c80ff7.png)
 
 
