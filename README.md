@@ -18,6 +18,8 @@ Create a page that displays "Hello $USER" where $USER is the name provided by th
 3. Fix the hello.erb file so it outputs the name obtained from the form as "Hello $USER".
 4. Embed a Ruby for loop to repeat the message 5 times.
 5. Modify the style of the message, with in-line styling, to change the color of the text to blue.
+6. Add a flash message to your app that appears when the user tries to submit an empty form.
+7. Add sessions (cookies) to your app so it stores information about the user, such as their name.
 
 Example Solution <br/>
 ![image](https://user-images.githubusercontent.com/7307397/190445805-35795fe9-3ac1-45df-b45a-9a9295c80ff7.png)
