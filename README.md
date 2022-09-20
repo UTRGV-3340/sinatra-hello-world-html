@@ -22,7 +22,9 @@ Create a page that displays "Hello $USER" where $USER is the name provided by th
 7. Add sessions (cookies) to your app so it stores information about the user, such as their name.
 
 Example Solution <br/>
-![image](https://user-images.githubusercontent.com/7307397/190445805-35795fe9-3ac1-45df-b45a-9a9295c80ff7.png)
+![image](https://user-images.githubusercontent.com/7307397/190445805-35795fe9-3ac1-45df-b45a-9a9295c80ff7.png)<br/>
+![image](https://user-images.githubusercontent.com/7307397/191293609-1fde46e7-c50a-49de-b393-ddb1a62a32d4.png)
+![image](https://user-images.githubusercontent.com/7307397/191293742-a7d61a45-63aa-4aca-813d-6aeb4d3c02f5.png)
 
 
 Testing the program
