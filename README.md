@@ -15,12 +15,12 @@ Create a page that displays "Hello $USER" where $USER is the name provided by th
 
 1. Clone this application in codio or your machine.
 2. Fix the form so it sends a POST request to /hello.
-3. Fix the hello.erb file so it outputs the name obtained from the form as "Hello $USER".
+3. Fix the hello.erb file so it outputs the name obtained from the form as "Hello $USER". ($USER being the input provided in the form)
 4. Embed a Ruby for loop to repeat the message 5 times.
-5. Modify the style of the message, with in-line styling, to change the color of the text to blue.
-6. Add a flash message (in red) to your app that appears when the user tries to submit an empty form.
+5. Modify the style of the message, with in-line styling (it's ok for now), to change the color of the text to blue.
+6. Add a flash message (in red) to your app that appears only when the user tries to submit an empty form.
 7. Add sessions (cookies) to your app so it stores information about the user, such as their name.
-8. Display a message with the cookies (in green) showing the user their information.
+8. Display a message with the cookies (in green) showing the user the last input they provided (does not show if the user hasn't provided any input).
 
 Example Solution <br/>
 ![image](https://user-images.githubusercontent.com/7307397/190445805-35795fe9-3ac1-45df-b45a-9a9295c80ff7.png)<br/>
@@ -36,6 +36,6 @@ Once the app is running, open the app using the Codio "Box URL" button, a new ta
 
 Submission
 ------------
-1. Clone this repo on codio and complete the required functions and pages.
-2. Commit and push your solution to GitHub (make sure you pass all the tests before you do), double check your repo on GitHub and verify the commit went through.
-3. Complete all the instructions and submit in Blackboard pictures similar to the ones given in the instructions, just replace Carlos with your own name. Make sure the URL of your page is visible.
+1. Clone this repo on codio and complete the instructions above.
+2. Commit and push your solution to GitHub, double check your repo on GitHub and verify the commit went through.
+3. Submit in Blackboard pictures similar to the ones given in the instructions, just replace Carlos with your own name. Make sure the URL of your page is visible.
